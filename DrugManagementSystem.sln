@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrugManagementSystem.Domain", "DrugManagementSystem.Domain\DrugManagementSystem.Domain.csproj", "{C1200341-D0C5-4EE0-B49E-0F254EA2302D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrugManagementSystem.WebUI", "DrugManagementSystem.WebUI\DrugManagementSystem.WebUI.csproj", "{3B92DB88-4A16-431D-8AC9-191EA9D69F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1200341-D0C5-4EE0-B49E-0F254EA2302D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1200341-D0C5-4EE0-B49E-0F254EA2302D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1200341-D0C5-4EE0-B49E-0F254EA2302D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1200341-D0C5-4EE0-B49E-0F254EA2302D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B92DB88-4A16-431D-8AC9-191EA9D69F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B92DB88-4A16-431D-8AC9-191EA9D69F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B92DB88-4A16-431D-8AC9-191EA9D69F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B92DB88-4A16-431D-8AC9-191EA9D69F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {209C468E-2620-449F-99DC-70B0E0F43D85}
+	EndGlobalSection
+EndGlobal
